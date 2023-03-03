@@ -1,0 +1,13 @@
+train: /kaggle/input/tacoyolov8/tacoyolov8/train/images
+val: /kaggle/input/tacoyolov8/tacoyolov8/valid/images
+test: /kaggle/input/tacoyolov8/tacoyolov8/test/images
+
+nc: 18
+names: ['Aluminium foil', 'Bottle cap', 'Bottle', 'Broken glass', 'Can', 'Carton', 'Cigarette', 'Cup', 'Lid', 'Other litter', 'Other plastic', 'Paper', 'Plastic bag - wrapper', 'Plastic container', 'Pop tab', 'Straw', 'Styrofoam piece', 'Unlabeled litter']
+
+roboflow:
+  workspace: divya-lzcld
+  project: taco-mqclx
+  version: 3
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/divya-lzcld/taco-mqclx/dataset/3
