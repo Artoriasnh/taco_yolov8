@@ -1,3 +1,1 @@
-"#Taco_Yolov8" 
-"# Taco_Yolov8" 
-"# taco_yolov8" 
+A small application of yolov8 on the taco dataset
